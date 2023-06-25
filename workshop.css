@@ -1,0 +1,35 @@
+.a1{
+    font-weight: bold;
+    font-size: 32px;
+    color: #111;
+    margin-bottom: 50px;
+}
+.a2{
+    font-size: 14px;
+    color: #333;
+}
+.a3{
+    line-height: 10;
+}
+.a5:hover{
+    color: #065;
+}
+ul>li:nth-child(4){
+    color: red;
+}
+ul>li:first-child {
+    color: blue;
+  }
+ul>li:last-child{
+    color: red;
+  }
+ul>li:nth-child(2n+2){
+    color: #f80;
+  }
+  .b1{
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+  }
+  
